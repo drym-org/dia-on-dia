@@ -1,0 +1,7 @@
+* inputs [14%]
+* analysis [14%]
+* appraisal [16%]
+* antecedents [14%]
+* tallying [14%]
+* pricing and valuation [14%]
+* review and ratification [14%]
